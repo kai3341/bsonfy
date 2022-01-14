@@ -1,3 +1,10 @@
+# About
+
+This package is a fork of [mpaland bsonfy](https://www.npmjs.com/package/bsonfy). Please check pull request statuses:
+* [Fix UTF-8 strings and emoji serialization/deserialization](https://github.com/mpaland/bsonfy/pull/4)
+
+If there are all pull requests are merged, please use [mpaland bsonfy](https://www.npmjs.com/package/bsonfy).
+
 # bsonfy - ultrafast BSON parser
 
 [![npm](https://img.shields.io/npm/v/bsonfy.svg)](https://www.npmjs.com/package/bsonfy)

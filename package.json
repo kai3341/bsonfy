@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpaland/bsonfy.git"
+    "url": "git+https://github.com/kai3341/bsonfy.git"
   },
   "keywords": [
     "BSON",
